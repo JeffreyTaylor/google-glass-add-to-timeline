@@ -5,8 +5,9 @@
     <ignored path="google-glass-add-to-timeline.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/app.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378944714734" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378944715151" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378945123480" ignored="false" />
     <file path="/README.md" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378944219642" ignored="false" />
+    <file path="/.gitignore" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378945122787" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1" column="5" selection-start="18" selection-end="18" vertical-scroll-proportion="0.028716216">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="44" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.29360968">
+            <state line="43" column="44" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,11 +66,12 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="921" />
+    <option name="x" value="241" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -183,7 +185,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="921" y="0" width="960" height="1080" extended-state="0" />
+    <frame x="241" y="0" width="960" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -267,13 +269,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
@@ -283,7 +278,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="44" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.29360968">
+        <state line="43" column="44" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="18" selection-end="18" vertical-scroll-proportion="0.028716216">
           <folding />
         </state>
       </provider>
