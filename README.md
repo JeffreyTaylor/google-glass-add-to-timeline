@@ -1,4 +1,4 @@
-# Add imeline items in Google Glass
+# Add timeline items in Google Glass
 
 ##Dependencies
 
