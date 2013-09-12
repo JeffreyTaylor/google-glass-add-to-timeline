@@ -17,7 +17,7 @@ var
       var html = [];
 
       html.push('<article><h1>Hello Google Glass!<h1>')
-      html.push('<h3> - From Jeff</h3>')
+      html.push('<h3> - From Jeff and BK</h3>')
       html.push('<footer><p class="purple">:)</p></footer></article>');
 
       return html.join('');
