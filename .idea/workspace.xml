@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19b60ac-70e7-4273-86b8-4081a3048cc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secret.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="google-glass-add-to-timeline.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/app.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379070999341" ignored="false" />
     <file path="/README.md" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1378945200051" ignored="false" />
-    <file path="/.gitignore" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071066754" ignored="false" />
-    <file path="/Dummy.txt" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379070637831" ignored="false" />
+    <file path="/.gitignore" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071225194" ignored="false" />
+    <file path="/Dummy.txt" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071184449" ignored="false" />
     <file path="/passwords.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379070923846" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="49" selection-end="49" vertical-scroll-proportion="0.084937714">
+            <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06810442">
               <folding />
             </state>
           </provider>
@@ -146,7 +144,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IADSS/web" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -339,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="49" selection-end="49" vertical-scroll-proportion="0.084937714">
+        <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06810442">
           <folding />
         </state>
       </provider>
