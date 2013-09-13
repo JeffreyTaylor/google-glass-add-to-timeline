@@ -2,14 +2,15 @@ var
   util = require('util'),
   express = require('express'),
   googleapis = require('googleapis'),
+  secret = require('./secret'),
   settings = {
       server: {
-          hostname: 'hostname',
-          port: '00000'
+          hostname: secret.host_name,
+          port: secret.port
       },
       google: {
-          client_id: 'id',
-          client_secret: 'secret'
+          client_id: secret.client_id,
+          client_secret: secret.client_secret
       }
   },
     createTemplate = function () {
