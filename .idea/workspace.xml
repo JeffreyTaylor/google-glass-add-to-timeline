@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c19b60ac-70e7-4273-86b8-4081a3048cc3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c19b60ac-70e7-4273-86b8-4081a3048cc3" name="Default" comment="" />
     <ignored path="google-glass-add-to-timeline.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/app.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379070999341" ignored="false" />
@@ -12,6 +9,7 @@
     <file path="/.gitignore" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071225194" ignored="false" />
     <file path="/Dummy.txt" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071184449" ignored="false" />
     <file path="/passwords.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379070923846" ignored="false" />
+    <file path="/secret.js" changelist="c19b60ac-70e7-4273-86b8-4081a3048cc3" time="1379071603146" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06810442">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="45" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+            <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,7 +41,16 @@
       <file leaf-file-name="secret.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/secret.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="27" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+            <state line="8" column="35" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,9 +76,9 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/passwords.js" />
-        <option value="$PROJECT_DIR$/secret.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/secret.js" />
       </list>
     </option>
   </component>
@@ -321,23 +319,23 @@
         <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/secret.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+        <state line="8" column="35" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06810442">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
