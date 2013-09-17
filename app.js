@@ -2,15 +2,14 @@ var
   util = require('util'),
   express = require('express'),
   googleapis = require('googleapis'),
-  secret = require('./secret'),
   settings = {
       server: {
-          hostname: secret.host_name,
-          port: secret.port
+          hostname: 'hostname',
+          port: port
       },
       google: {
-          client_id: secret.client_id,
-          client_secret: secret.client_secret
+          client_id: 'id',
+          client_secret: 'secret'
       }
   },
     createTemplate = function () {
@@ -55,6 +54,9 @@ app.get('/', function (req, res) {
             client.mirror.timeline.insert({
                 html: createTemplate(),
                 menuItems: [
+                    {
+                        action: 'REPLY'
+                    },
                   {
                       id: 'refresh',
                       action: 'CUSTOM',
@@ -64,9 +66,6 @@ app.get('/', function (req, res) {
                             iconUrl: 'http://' + settings.server.hostname + ':' + settings.server.port + '/refresh.png'
                         }
                       ]
-                  },
-                  {
-                      action: 'TOGGLE_PINNED'
                   },
                   {
                       action: 'DELETE'
